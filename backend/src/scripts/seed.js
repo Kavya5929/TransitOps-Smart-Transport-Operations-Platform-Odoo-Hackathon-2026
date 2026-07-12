@@ -20,7 +20,7 @@ require('dotenv').config();
 const seedData = async () => {
   try {
     // Connect to Database
-    await mongoose.connect(process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/transitops');
+    await mongoose.connect(process.env.MONGODB_URI);
     console.log('Database connected for seeding localized Indian fleet data...');
 
     // Clear existing data
