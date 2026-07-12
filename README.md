@@ -278,6 +278,37 @@ https://transitops-6fc9.onrender.com
 
 ---
 
+# 👥 Meet the Team
+
+### 👩‍💻 Kavya Parmar
+**Team Leader & Backend Developer**
+
+- Led project development
+- Designed backend architecture
+- Developed REST APIs
+- Managed database integration
+
+---
+
+### 👨‍💻 Pratham Panchal
+**Backend Developer**
+
+- Developed backend modules
+- Implemented server-side logic
+- Database operations
+- API integration
+
+---
+
+### 👨‍🎨 Het Kanjariya
+**Frontend Developer**
+
+- Designed and developed the complete frontend
+- Built responsive user interface
+- Implemented React components
+- Integrated frontend with backend APIs
+- Enhanced user experience and dashboard design
+
 # 📄 License
 
 This project was developed for educational and hackathon purposes.
